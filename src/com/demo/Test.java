@@ -3,7 +3,8 @@ package com.demo;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("创建新的项目");
+		System.out.println("麓麓陆篓脨脗碌脛脧卯脛驴");
+		System.out.println("123");
 	}
 
 }
